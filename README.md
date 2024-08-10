@@ -22,11 +22,6 @@ Certifique-se de ter as seguintes bibliotecas instaladas:
 - `opencv-python`
 - `cvzone`
 
-Você pode instalar as dependências com:
-
-```bash
-pip install -r requirements.txt
-
 ## Clone o repositório:
 
 
