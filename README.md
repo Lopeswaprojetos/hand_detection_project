@@ -23,7 +23,7 @@ Certifique-se de ter as seguintes bibliotecas instaladas:
 - `cvzone`
 
 ## Clone o repositório:
-
+https://github.com/Lopeswaprojetos/hand_detection_project.git
 
 ## Navegue até o diretório do projeto:
 cd hand_detection_project
