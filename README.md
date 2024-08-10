@@ -1,4 +1,4 @@
-# Projeto de Detecção de Mãos com OpenCV e cvzone
+# Projeto de Detecção de Mãos 
 
 ## Descrição
 
